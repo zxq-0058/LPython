@@ -1,0 +1,4 @@
+Dictionary is one of the important data types available in Python. The data in a dictionary is stored as a key/value pair. It is separated by a colon(:), and the key/value pair is separated by comma(,).
+The keys in a dictionary are unique and can be a string, integer, tuple, etc. The values can be a list or list within a list, numbers, string, etc.
+
+Here is an example of a dictionary:
